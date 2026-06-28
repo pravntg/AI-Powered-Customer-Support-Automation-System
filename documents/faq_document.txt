@@ -1,0 +1,19 @@
+ABC Technologies - FAQ Document
+
+Q: What pricing plans do you offer?
+A: We offer three plans: Basic ($19/month, for small startups), Professional ($49/month, for growing businesses), and Enterprise (custom pricing starting at $199/month, billed annually).
+
+Q: Is there a discount for annual billing?
+A: Yes! If you choose annual billing, you receive a 20% discount on both the Basic and Professional plans.
+
+Q: How do I reset my password?
+A: Click on the "Forgot Password" link on the login page and enter your email address. We will send you a password reset link. Support agents can also send this link to you if you are unable to request it.
+
+Q: Why does the app crash when I upload a file?
+A: The application restricts uploads to files under 25MB. Additionally, we only support PDF (.pdf), CSV (.csv), PNG (.png), and JPG (.jpg, .jpeg) formats. Uploading files larger than 25MB or of different formats can cause the client to crash.
+
+Q: What is your refund policy?
+A: We offer refunds within 14 days of purchase. All refund requests are reviewed by a human supervisor to prevent account misuse.
+
+Q: Can I cancel my subscription?
+A: Yes, you can cancel your subscription at any time via your Account Settings. Requests sent via chat or support tickets must be reviewed and processed by a supervisor.

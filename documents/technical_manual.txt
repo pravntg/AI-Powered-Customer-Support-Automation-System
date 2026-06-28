@@ -1,0 +1,28 @@
+ABC Technologies - Technical Manual
+
+1. Account Login Issues & Password Reset
+- If a customer cannot log in due to a forgotten password:
+  1. Direct them to the Login page.
+  2. Tell them to click "Forgot Password" below the input fields.
+  3. Enter their registered email address and click "Send Link".
+  4. An email with a secure password reset link (valid for 1 hour) will be sent.
+- Support agents can also trigger a password reset link manually from the Admin Dashboard > User Management > Actions > Send Reset Link.
+- If the reset email is not received, advise the user to:
+  - Check their spam or promotions folder.
+  - Add support@abctechnologies.com to their address book.
+  - Wait 5 minutes and try again.
+
+2. Application Crashes on File Uploads
+- Symptom: The application freezes or crashes when a user tries to upload a document or attachment.
+- Root Causes and Troubleshooting Steps:
+  - File Size Limit exceeded: The maximum allowed size for a single file upload is 25 megabytes (25MB). File uploads larger than this will fail or cause the app to hang.
+  - Unsupported File Format: The system only supports the following file formats for upload:
+    - Documents: PDF (.pdf), CSV (.csv)
+    - Images: PNG (.png), JPEG/JPG (.jpg, .jpeg)
+    - Any other extensions (such as .exe, .zip, .xlsx, .pages) will trigger validation errors and may crash older clients.
+  - Troubleshooting Checklist:
+    1. Check file size is below 25MB.
+    2. Check extension is .pdf, .csv, .png, or .jpg.
+    3. Clear the browser cache and try uploading again in an incognito window.
+    4. Ensure the file is not corrupted by opening it locally first.
+    5. If using our desktop client, ensure the client is updated to the latest version.

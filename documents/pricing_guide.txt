@@ -1,0 +1,29 @@
+ABC Technologies - Pricing Guide
+
+1. Subscription Plans
+ABC Technologies offers three subscription plans tailored for business management:
+
+- Basic Plan
+  - Price: $19 per month (billed monthly)
+  - Features: Up to 5 user seats, core business management tools, 10GB shared storage, and standard email support.
+  - Best for: Small startups and individual professionals.
+
+- Professional Plan
+  - Price: $49 per month (billed monthly)
+  - Features: Unlimited user seats, advanced analytics, custom integrations, 100GB storage, and priority 24/7 email & chat support.
+  - Best for: Growing mid-sized businesses.
+
+- Enterprise Plan
+  - Price: Custom pricing (starts at $199 per month, billed annually)
+  - Features: Dedicated account manager, 99.9% SLA guarantee, custom features development, unlimited storage, and phone support.
+  - Best for: Large organizations and high-volume operations.
+
+2. Annual Billing Discount
+- Customers who choose annual billing for the Basic or Professional plan receive a 20% discount on the total price.
+- Basic Plan Annual: $182.40 per year (equivalent to $15.20/month).
+- Professional Plan Annual: $470.40 per year (equivalent to $39.20/month).
+
+3. Add-on Pricing
+- Extra 50GB storage: $5 per month.
+- Dedicated IP address: $10 per month.
+- Advanced Security Package: $15 per month.

@@ -1,0 +1,25 @@
+ABC Technologies - Company Policy Document
+
+1. Refund Policy
+- Refund requests are eligible only within 14 days of the initial purchase or billing date.
+- Any request for a refund must be reviewed and approved by a human supervisor to ensure it matches billing criteria.
+- Automatic refunds are strictly prohibited to prevent fraud and account errors.
+
+2. Subscription Cancellation
+- Customers can cancel their subscription at any time via the User Dashboard.
+- Cancellations sent to support must be manually processed and require supervisor review before finalizing, ensuring no active usage or pending payments remain.
+- Cancellations take effect at the end of the current billing cycle. No partial refunds are given for unused mid-cycle time unless explicitly approved by a supervisor.
+
+3. Account Closure
+- Requesting to permanently close or delete an account requires supervisor approval.
+- Before closure, the system must verify that all invoices are paid, there are no active subscriptions, and user identity is verified.
+- The supervisor must sign off on the deletion of data in compliance with general data protection regulations.
+
+4. Compensation Policy
+- In cases of system downtime or service degradation, customer support may offer compensation.
+- Standard support agents can authorize compensation (credits or discounts) up to $50.
+- Any compensation request exceeding $50, or requests for direct financial refunds as compensation, must be escalated to a human supervisor for approval.
+
+5. Escalation to Management
+- If a customer is dissatisfied with standard support or explicitly requests to speak with management, the request must be escalated.
+- All escalations to management require human supervisor validation and approval before routing to upper management.
